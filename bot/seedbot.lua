@@ -226,6 +226,10 @@ function create_config( )
     "leave_ban",
     "admin",
     "plugins",
+    "info",
+    "server",
+    "tophoto"
+    
     },
     sudo_users = {210948526,141422437,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
